@@ -6,3 +6,5 @@ show to the user.
 
 BMI calculated by weight/square of height.
 
+ **Demo [here](https://jsb-03-bmi-calculator-h5rpkl3dq-baydarn.vercel.app/)** 🚀
+
